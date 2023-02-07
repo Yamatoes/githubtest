@@ -34,3 +34,16 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+
+div {
+    background-color: deepskyblue;
+    color: darkorange;
+    height: 100px;
+    width: 150px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    border: dashed lightgreen;
+}
